@@ -1,2 +1,2 @@
-# first-repo  on github by jyothika
+# jyothika kagitala is the owner of this projects
 my first repo on github
